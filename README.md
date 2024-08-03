@@ -1,4 +1,4 @@
-# Wunderground-Table-Weather-Forecast-Station
+# Wunderground-Table-For-Weather-Station
 A script for Wunderground that recovers the annual data of maximum and minimum temperature and shows them.
 
 This PHP script allows the recovery of data from the Wunderground service and shows them in a table.
